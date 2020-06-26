@@ -1,4 +1,4 @@
-# com
+# My Pokemon App
 
 A new Flutter application.
 
